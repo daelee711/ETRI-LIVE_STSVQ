@@ -14,10 +14,10 @@ bash data_unzip.sh
 ```
 
 ## Subjective Scores
-Subjective opinion scores are provided in [subjective_scores](https://github.com/daelee711/ETRI-LIVE_STSVQ/tree/master/subjective_scores) directory.
+The subjective opinion scores for all 437 distorted videos are provided in [subjective_scores](https://github.com/daelee711/ETRI-LIVE_STSVQ/tree/master/subjective_scores) directory.
 
 ## Target Bitrate/QP Information
-The five target bit rates associated with each source video, along with the corresponding QP and bit rate values of the space-time subsampled videos are provided in data.xls
+The five target bit rates associated with each source video, along with the corresponding QP and bit rate values of the space-time subsampled videos are provided in this directory.
 
 ## Citation
 If you use this database in your research, we kindly ask you to reference our paper
