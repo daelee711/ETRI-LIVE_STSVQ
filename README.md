@@ -11,7 +11,7 @@ All videos are provided in YUV file format at 3840x2160, 60/120Hz, and 10 bit. F
 ## Subjective Scores
 The subjective opinion scores for all 437 distorted videos are provided in [subjective_scores](https://github.com/daelee711/ETRI-LIVE_STSVQ/tree/master/subjective_scores) directory.
 
-## Target Bitrate/QP Information
+## Target bit rate/QP Information
 The five target bit rates associated with each source video, along with the corresponding QP and bit rate values of the space-time subsampled videos are provided in [target_bitrate_qp_info](https://github.com/daelee711/ETRI-LIVE_STSVQ/tree/master/target_bitrate_qp_info) directory.
 
 ## Citation
