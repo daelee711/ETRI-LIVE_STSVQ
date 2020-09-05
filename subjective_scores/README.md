@@ -16,7 +16,6 @@ We also provide video information matrix containing each distorted videos space-
 
 
 >__3. ETRI-LIVE_videoInfo.csv__  
->
 >		- __videoName__: sourceContentName_spatialResolution_frameRate_quantizationParameter.  
 >		- __contentIndex__: videos generated from the same source content have the same number.  
 >		- __sourceSpatialResolution__: spatial resolution of the original source content.  
