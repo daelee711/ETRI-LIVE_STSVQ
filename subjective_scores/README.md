@@ -8,9 +8,9 @@ The video names are provided in *sourceContentName_spatialResolution_frameRate_q
 >		* can be used to evaluate prediction performances of reference (full/reduced) image/video quality models.  
 
 
->**2. ETRI-LIVE_MOS.csv**
->		- contains Mean Opinion Scores (MOS) and their respective standard deviation. 
->		- can be used to evaluate prediction performances of no-reference image/video quality models.
+>__2. ETRI-LIVE_MOS.csv__  
+>		- contains Mean Opinion Scores (MOS) and their respective standard deviation.  
+>		- can be used to evaluate prediction performances of no-reference image/video quality models.  
 
 We also provide video information matrix containing each distorted videos space-time resolution and bit rate informations.
 
