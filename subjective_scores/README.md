@@ -4,6 +4,8 @@ There are two files containing subjective opinion scores. Each files is arranged
 The video names are provided in *sourceContentName_spatialResolution_frameRate_quantizationParameter* format. (e.g. Beauty_1080p_120hz_q_27)
 ```
 1. ETRI-LIVE_DMOS.csv - contains Difference Mean Opinion Scores (DMOS) and their respective standard deviation. 
+
+The scores can be used to evaluate prediction performances of reference (full/reduced) image/video quality model.
 ```
 
 ```
@@ -13,5 +15,6 @@ The video names are provided in *sourceContentName_spatialResolution_frameRate_q
 We also provide video information matrix containing each distorted videos space-time resolution and bitrate information.
 
 ```
-3. ETRI-LIVE_videoInfo.csv - contains video parameter information of the list of videos.
+3. ETRI-LIVE_videoInfo.csv - contains video parameter information.
+   -DFDF
 ```
