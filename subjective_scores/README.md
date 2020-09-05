@@ -12,7 +12,7 @@ The video names are provided in *sourceContentName_spatialResolution_frameRate_q
 >- contains Mean Opinion Scores (MOS) and their respective standard deviation.  
 >- can be used to evaluate prediction performances of no-reference image/video quality models.  
 
-We also provide video information matrix containing space-time resolution and bit rate information of each distorted videos .
+We also provide video information matrix containing space-time resolution and bit rate information of each distorted video.
 
 
 >__3. ETRI-LIVE_videoInfo.csv__  
@@ -20,8 +20,8 @@ We also provide video information matrix containing space-time resolution and bi
 >- __contentIndex__: videos generated from the same source content have the index.  
 >- __sourceSpatialResolution__: spatial resolution of the original source content.  
 >- __sourceFrameRate__: frame rate of the original source content.  
->- __processedSpatialResolution__: spatial resolution of each distorted videos.  
->- __processedFrameRateRatio__: frame rate ratio (distorted/source) of each distorted videos.  
+>- __processedSpatialResolution__: spatial resolution of each distorted video.  
+>- __processedFrameRateRatio__: frame rate ratio (distorted/source) of each distorted video.  
 >- __bitrate__: bitrate of each distorted videos in Mbps.  
->- __bitrateLevel__: bitrate level of each distorted videos where higher number refers to heavier compression.  
+>- __bitrateLevel__: bitrate level of each distorted video where higher number refers to heavier compression.  
 
