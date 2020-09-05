@@ -7,7 +7,7 @@ The database consist of 15 original videos and 437 distorted videos.
 
 All videos are provided in YUV file format at 3840x2160, 60/120Hz, and 10 bit. For downloading the entire database, please ensure at least 4.6 TB space available. 
 
-
+SS
 ## Subjective Scores
 The subjective opinion scores for all 437 distorted videos are provided in [subjective_scores](https://github.com/daelee711/ETRI-LIVE_STSVQ/tree/master/subjective_scores) directory.
 
