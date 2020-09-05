@@ -16,12 +16,13 @@ We also provide video information matrix containing each distorted videos space-
 
 
 >__3. ETRI-LIVE_videoInfo.csv__  
+>
 >		- __videoName__: sourceContentName_spatialResolution_frameRate_quantizationParameter.  
->		* __contentIndex__: videos generated from the same source content have the same number.  
->		* __sourceSpatialResolution__: spatial resolution of the original source content.  
->		* __sourceFrameRate__: frame rate of the original source content.  
->		* __processedSpatialResolution__: spatial resolution of each distorted content.  
->		* __processedFrameRateRatio__: frame rate ratio (distorted/source) of each distorted content.  
->		* __bitrate__: bitrate of each distorted content in Mbps.  
->		* __bitrateLevel__: bitrate level of each distorted content where higher number refers to heavier compression.  
+>		- __contentIndex__: videos generated from the same source content have the same number.  
+>		- __sourceSpatialResolution__: spatial resolution of the original source content.  
+>		- __sourceFrameRate__: frame rate of the original source content.  
+>		- __processedSpatialResolution__: spatial resolution of each distorted content.  
+>		- __processedFrameRateRatio__: frame rate ratio (distorted/source) of each distorted content.  
+>		- __bitrate__: bitrate of each distorted content in Mbps.  
+>		- __bitrateLevel__: bitrate level of each distorted content where higher number refers to heavier compression.  
 
