@@ -9,12 +9,20 @@ The video names are provided in *sourceContentName_spatialResolution_frameRate_q
 ```
 
 ```
-2. ETRI-LIVE_MOS.csv - contains Mean Opinion Scores (DMOS) and their respective standard deviation. 
-```
+2. ETRI-LIVE_MOS.csv
+   * contains Mean Opinion Scores (MOS) and their respective standard deviation. 
+   * can be used to evaluate prediction performances of no-reference image/video quality model.
 
 We also provide video information matrix containing each distorted videos space-time resolution and bitrate information.
 
 ```
 3. ETRI-LIVE_videoInfo.csv - contains video parameter information.
-   -DFDF
+   * videoName: sourceContentName_spatialResolution_frameRate_quantizationParameter
+   * contentIndex: videos generated from the same source content have same number.
+   * sourceSpatialResolution: spatial resolution of the original source content.
+   * sourceFrameRate: frame rate of the original source content.
+   * processedSpatialResolution: spatial resolution of each distorted content.
+   * processedFrameRateRatio: frame rate ratio (distorted/source) of each distorted content.
+   * bitrate: bitrate of each distorted content in Mbps.
+   * bitrateLevel: bitrate level of each distorted content where higher number refers to heavier compression
 ```

@@ -1,4 +1,4 @@
-﻿videoName,contentIndex,sourceSpatialResolution,frameRate,processedSpatialResolution,processedFrameRateRatio,bitrate,bitrateLevel
+﻿videoName,contentIndex,sourceSpatialResolution,sourceFrameRate,processedSpatialResolution,processedFrameRateRatio,bitrate,bitrateLevel
 Beauty_1080p_120hz_q_27,1,2160,120,1080,1,8.43,2
 Beauty_1080p_120hz_q_29,1,2160,120,1080,1,5.98,3
 Beauty_1080p_120hz_q_35,1,2160,120,1080,1,2.49,4
