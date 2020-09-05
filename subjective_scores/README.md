@@ -5,7 +5,7 @@ The video names are provided in *sourceContentName_spatialResolution_frameRate_q
 ```
 1. ETRI-LIVE_DMOS.csv - contains Difference Mean Opinion Scores (DMOS) and their respective standard deviation. 
 
-The scores can be used to evaluate prediction performances of reference (full/reduced) image/video quality model.
+	- The scores can be used to evaluate prediction performances of reference (full/reduced) image/video quality model.
 ```
 
 ```
