@@ -8,15 +8,15 @@ To download the videos, please fill [this form](https://docs.google.com/forms/d/
 * For downloading the entire database, please ensure at least 4.5 TB space available.
 
 ### Windows users
-* You need to have cURL setup to use the download script. If you have Windows 10 version of 1803 or later, cURL is installed by default. If using an older Windows version, download cURL for Windows [here](https://curl.haxx.se/download.html)  
+* You need to have cURL set up to use the download script. If you have Windows 10 version of 1803 or later, cURL is installed by default. If using an older Windows version, download cURL for Windows [here](https://curl.haxx.se/download.html)  
 * Set a directory where you will store the 15 original videos (~151 GB). Place the following script and the inside the folder and run. 
-```
-download_original.bat
-```
+	```
+	download_original.bat
+	```
 * Set a directory where you will store the 437 distorted videos (~4.31 TB). Place the following script inside the folder and run. 
-```
-download_distorted.bat
-```
+	```
+	download_distorted.bat
+	```
 
 
 ## Subjective Scores
