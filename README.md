@@ -8,8 +8,8 @@ To download the videos, please fill [this form](https://docs.google.com/forms/d/
 * For downloading the entire database, please ensure at least 4.6 TB space available.
 
 ### Windows users
-	* Please configure curl here  
-	* Create a directory  
+* Please configure curl here  
+* Create a directory  
 	```
 	download.bat
 	```
