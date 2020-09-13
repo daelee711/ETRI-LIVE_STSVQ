@@ -28,7 +28,7 @@ To download the videos, please fill [this form](https://docs.google.com/forms/d/
 	bash download_distorted.sh
 	```
 
-You can also manually download selected videos by using direct download links for each videos provided in the *ETRI-LIVE_directLink.xlsx* file (in UT BOX).  
+You can also manually download selected videos by using direct download links for each videos provided in the *ETRI-LIVE_directLink.xlsx* file (Note: the file is in the UT Box. Again, to obtain the link to the UT BOX, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScfk9y1XUWINq4EqsDuTXsfO7bJIPOYcfBUIAU19_QY92M-Qg/viewform)).  
 
 
 ## Subjective Scores
