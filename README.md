@@ -5,14 +5,18 @@ ETRI-LIVE Space-Time Subsampled Video Quality (STSVQ) Database contains 437 vide
 To download the videos, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScfk9y1XUWINq4EqsDuTXsfO7bJIPOYcfBUIAU19_QY92M-Qg/viewform) and a download link will be sent to you where you can access the download scripts and videos.
 * The database consist of 15 original videos and 437 distorted videos. 
 * All videos are provided in raw YUV file format at 3840x2160, 60/120Hz, and 10 bit. 
-* For downloading the entire database, please ensure at least 4.6 TB space available.
+* For downloading the entire database, please ensure at least 4.5 TB space available.
 
 ### Windows users
-* Please configure curl here  
-* Create a directory  
-	```
-	download.bat
-	```
+* You need to have cURL setup to use the download script. If you have Windows 10 version of 1803 or later, cURL is installed by default. If using an older Windows version, download cURL for Windows [here](https://curl.haxx.se/download.html)  
+* Set a directory where you will store the 15 original videos (~151 GB). Place the following script and the inside the folder and run. 
+```
+download_original.bat
+```
+* Set a directory where you will store the 437 distorted videos (~4.31 TB). Place the following script inside the folder and run. 
+```
+download_distorted.bat
+```
 
 
 ## Subjective Scores
