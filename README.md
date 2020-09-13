@@ -4,8 +4,11 @@ ETRI-LIVE Space-Time Subsampled Video Quality (STSVQ) Database contains 437 vide
 ## Downloading the videos
 To download the videos, please fill [this form](https://docs.google.com/forms/d/e/1FAIpQLScfk9y1XUWINq4EqsDuTXsfO7bJIPOYcfBUIAU19_QY92M-Qg/viewform) and a download link will be sent to you where you can access the download scripts and videos.
 * The database consist of 15 original videos and 437 distorted videos. 
-* All videos are provided in YUV file format at 3840x2160, 60/120Hz, and 10 bit. 
-* For downloading the entire database, please ensure at least 4.6 TB space available. 
+* All videos are provided in raw YUV file format at 3840x2160, 60/120Hz, and 10 bit. 
+* For downloading the entire database, please ensure at least 4.6 TB space available.
+
+>> Windows users
+>>   
 
 
 ## Subjective Scores
