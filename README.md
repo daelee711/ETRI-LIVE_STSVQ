@@ -7,10 +7,12 @@ To download the videos, please fill [this form](https://docs.google.com/forms/d/
 * All videos are provided in raw YUV file format at 3840x2160, 60/120Hz, and 10 bit. 
 * For downloading the entire database, please ensure at least 4.6 TB space available.
 
-> Windows users
-> ''' 
-> hello word
-> '''   
+### Windows users
+	* Please configure curl here  
+	* Create a directory  
+	'''
+	download.bat
+	'''
 
 
 ## Subjective Scores
