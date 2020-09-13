@@ -10,9 +10,9 @@ To download the videos, please fill [this form](https://docs.google.com/forms/d/
 ### Windows users
 	* Please configure curl here  
 	* Create a directory  
-	'''
+	```
 	download.bat
-	'''
+	```
 
 
 ## Subjective Scores
