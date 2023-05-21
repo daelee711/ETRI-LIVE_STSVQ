@@ -41,7 +41,7 @@ The five target bit rates associated with each source video, along with the corr
 ## Citation
 If you use this database in your research, we kindly ask you to reference our paper
 
->D. Lee, S. Paul, C. G. Bampis, H. Ko, J. Kim, S. Jeong, B. Homan and A. C. Bovik, "A Subjective and Objective Study of Space-Time Subsampled Video Quality", submitted to IEEE Transactions on Image Processing. 
+>D. Lee, S. Paul, C. G. Bampis, H. Ko, J. Kim, S. Jeong, B. Homan and A. C. Bovik, "A Subjective and Objective Study of Space-Time Subsampled Video Quality", IEEE Transactions on Image Processing, vol. 31, pp. 934-948, 2022. 
 
 
 ### Contact
