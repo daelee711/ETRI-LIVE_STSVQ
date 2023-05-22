@@ -6,6 +6,8 @@ In order to download the videos, kindly refer to the instructions provided below
 * The database consist of 15 original videos and 437 distorted videos. 
 * All videos are provided in raw YUV file format at 3840x2160, 60/120Hz, and 10 bit. 
 * For downloading the entire database, please ensure at least 4.5 TB space available.
+* Please note that any subsampled videos have been resampled back to the original resolution. These YUV videos represent the actual content presented during the human study, hence, are the most precise data if you're looking to associate with the provided subjective scores.
+* If you need to obtain the compressed bitstreams of the distorted videos, please send a request [here](mailto:daelee711@utexas.edu). It's important to note that these bitstreams exist before the post-processing that restores the space-time resolution. Thus, if you aim to use full reference quality measures on them, you'll need to apply the resolution restoration procedures. For information on the method used, please consult our [paper](https://ieeexplore.ieee.org/abstract/document/9665209).
 
 ### Windows users
 * You need to have cURL set up to use the download script. If you have Windows 10 version of 1803 or later, cURL is installed by default. If using an older Windows version, download cURL for Windows [here.](https://curl.haxx.se/download.html)  
@@ -13,17 +15,17 @@ In order to download the videos, kindly refer to the instructions provided below
 	```
 	download_original.bat
 	```
-* Set a directory where you will store the 437 distorted videos (~4.31 TB). Place the following script inside the folder and run. 
+* Set a directory where you will store the 437 distorted videos (~4.31 TB). Place the following [download script](./download_distorted.bat) inside the folder and run. 
 	```
 	download_distorted.bat
 	```
 
 ### Linux/Mac Users
-* Set a directory where you will store the 15 original videos (~151 GB). Place the following script and the inside the folder and run. 
+* Set a directory where you will store the 15 original videos (~151 GB). Place the following [download script](./download_original.sh) inside the folder and run. 
 	```
 	bash download_original.sh
 	```
-* Set a directory where you will store the 437 distorted videos (~4.31 TB). Place the following script inside the folder and run. 
+* Set a directory where you will store the 437 distorted videos (~4.31 TB). Place the following [download script](./download_distorted.sh) inside the folder and run. 
 	```
 	bash download_distorted.sh
 	```
